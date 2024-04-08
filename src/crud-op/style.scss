@@ -1,0 +1,20 @@
+ul
+{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: none;
+}
+Form 
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.val{
+    height: 30px;
+    width:300px;
+    padding-left:10px;
+    margin-left: 20px;
+}
